@@ -39,6 +39,6 @@ El modelo matemático se ha formulado utilizando:
    
 ---
 
-## 🔮 Próximos Pasos
+## Próximos Pasos
 *  **Visualización gráfica:** Implementar `Matplotlib` para trazar la ruta óptima sobre un plano.
 *  **Escalabilidad:** Probar el modelo con un mayor número de ciudades.
